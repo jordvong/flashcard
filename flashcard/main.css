@@ -1,0 +1,30 @@
+.frontCard{
+  background: white;
+  z-index: 1000;
+  font-family: 'raleway', sans-serif;
+}
+
+h1 {
+  padding-top: 100px;
+  z-index: 100;
+  float: left;
+  padding-left: 10%;
+}
+
+p {
+  text-align: left;
+  width: 70%;
+  padding-top: 7px;
+  font-family: 'raleway', sans-serif;
+  z-index: 100;
+  float: left;
+  padding-left: 10%;
+}
+
+button {
+  color: white;
+  background-color: black;
+  font-size: 24px;
+  font-family: 'raleway', sans-serif;
+  padding: 1%;
+}
